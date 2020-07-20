@@ -5,13 +5,13 @@ Welcome! I am a graduate student at the USC Sol Price School of Public Policy in
 I hope to work in the field of environmental economics and policy. My specific interests lie in critical issues of water management and sustainability, non-market valuation, land use and urban development, and transportation.
 Originally from the desert oasis of Scottsdale, Arizona, I love the outdoors and enjoy exploring public lands. I am an avid rock climber, iced mocha connoisseur, and a certified beach-aholic.
 
-View my CV: https://tinyurl.com/y5v2uumo
+View my CV: https://tinyurl.com/NoahSilverCV
 
 Take a look at my previous work! Here are a few examples:
 
 1. ANALYSIS OF COASTAL MANAGEMENT IN VENTURA COUNTY, CALIFORNIA - Studies the coastal management ecosystem in Ventura County, California and recommends strategies to make coastal management more efficient and impactful across the county's coastal zone.
     
-          https://tinyurl.com/y22ydezu
+          https://tinyurl.com/y22ydezu 
           
 2. ANALYSIS OF PROPOSED FREE BUS TRANSIT POLICY IN AUSTIN, TEXAS - A cost-benefit analysis of a proposed policy to eliminate ticket prices on the Austin, Texas bus transit system. Considers economic, environmental, health, and time costs and benefits. Includes Monte Carlo sensitivity analysis.
 
@@ -23,8 +23,9 @@ Take a look at my previous work! Here are a few examples:
           
 4. TRADE IMPLICATIONS OF CLIMATE CHANGE IN UNITED STATES PORTS - Investigates the effects of climate change on local, regional, and national trade revenues derived from risk-prone seaports in the United States.
   
-          https://tinyurl.com/yyoqe2qj
+          https://tinyurl.com/yyoqe2qj 
           
 5. CARIBBEAN CORAL REEF DEGRADATION - Examines the economic impacts of coral reef degradation in the Caribbean and proposes a comprehensive approach to ecosystem redevelopment. 
 
-          https://tinyurl.com/coralpaper
+          https://tinyurl.com/coralpaper 
+ 
